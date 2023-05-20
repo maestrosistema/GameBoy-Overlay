@@ -68,9 +68,11 @@ I also reccomed using a <b>Video Shader</b> like <b>dot.glslp</b> found in <i>"s
 ![My Image](usage.jpg)
 
 # Donation
-If you like my work, please consider a small donation. Thank You!
+If you like my work, please consider a small donation.
 
-<a href="https://paypal.me/maestrosistema?country.x=IT&locale.x=it_IT"><b>DONATE</b></a>
+You can donate with <a href="https://paypal.me/maestrosistema?country.x=IT&locale.x=it_IT"><b>PayPal</b></a> or <a href="ko-fi.com/maestrosistema"><b>Ko-Fi</b></a>
+
+Thank You!
 
 # Special Thanks
 RetroArch Team
