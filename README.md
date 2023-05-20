@@ -59,3 +59,7 @@ I also reccomed using a <b>Video Shader</b> like <b>dot.glslp</b> found in <i>"s
 # USAGE
 
 ![My Image](usage.jpg)
+
+# DISCLAIMER
+<b>Nintendo GameBoy</b> is a trademark of <b>Nintendo Co., Ltd</b>
+<b>Android</b> is a trademark of <b>Google LLC</b>
