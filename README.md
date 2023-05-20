@@ -34,7 +34,9 @@ I've updated it for modern 21:9 (2400x1080) screen Android devices.
 - Overlay Opacity <b>1.00</b>
 - (Portrait) Overlay Aspect Adjustment <b>-0.250</b>
   
-Finally go to <b>Quick Menu - Ovverides</b> and <b>Save Core Overrides</b>
+<b>4.</b> Go to <b>Quick Menu - Ovverides</b> and <b>Save Core Overrides</b> then restart RetroArch.
+ 
+<b>5.</b> Play!
 
 <b>Optional Settings:</b>
   
