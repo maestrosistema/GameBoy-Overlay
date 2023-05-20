@@ -60,6 +60,12 @@ I also reccomed using a <b>Video Shader</b> like <b>dot.glslp</b> found in <i>"s
 
 ![My Image](usage.jpg)
 
+# DONATION
+If you like my work, please consider a small donation. Thank You!
+
+<a href="https://paypal.me/maestrosistema?country.x=IT&locale.x=it_IT"><b>DONATE</b></a>
+
 # DISCLAIMER
 <b>Nintendo GameBoy</b> is a trademark of <b>Nintendo Co., Ltd</b>
+
 <b>Android</b> is a trademark of <b>Google LLC</b>
