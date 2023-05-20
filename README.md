@@ -14,9 +14,13 @@ I've updated it for modern 21:9 (2400x1080) screen Android devices.
 <i>"RetroArch/overlays/misc"</i> (Or any folder you set for overlays in RetroArch settings) and overwrite if asked.
 
 3. Boot any GB or GBC game (the Gambatte core is recommended), go into the menu and change these settings:
-Video:
-- Enable fullscreen over notch in Android devices - ON
-Video - Scaling:
-- Integer Scale - OFF
-- Aspect Ratio - Custom
-- Custom Aspect Ratio (X Position)
+<b>Video:</b>
+- Enable fullscreen over notch in Android devices - <b>ON</b>
+<b>Video - Scaling:</b>
+- Integer Scale - <b>OFF</b>
+- Aspect Ratio - <b>Custom</b>
+- Custom Aspect Ratio (X Position) - <b>221</b>
+- Custom Aspect Ratio (Y Position) - <b>1147</b>
+- Custom Aspect Ratio (Width) - <b>640 (4x)</b>
+- Custom Aspect Ratio (Height) - <b>576 (4x)</b>
+- Crop Overscan (Restart Required) - <b>ON</b>
