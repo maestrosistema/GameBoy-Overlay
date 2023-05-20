@@ -8,3 +8,7 @@ I've updated it for modern 21:9 (2400x1080) screen mobile devices.
 
 # INSTALLATION
 
+1. Download latest release.
+
+2. Copy the <b>gb-portrait</b> folder inside: 
+<i>"RetroArch/overlays/misc"</i> (Or any folder you set for overlays in RetroArch settings) and overwrite if asked.
