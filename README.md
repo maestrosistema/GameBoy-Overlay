@@ -40,6 +40,9 @@ I've updated it for modern 21:9 (2400x1080) screen Android devices.
  
 <b>5.</b> Play!
 
+<b>NOTE:</b>
+<b>THESE SETTINGS ARE OPTIMAL FOR 21:9, 2400x1080 RESOLUTION PHONES, FOR DIFFERENT ASPECT RATIO AND RESOLUTIONS YOU MAY HAVE TO TWEAK: CUSTOM ASPECT RATIO (X POSITION), CUSTOM ASPECT RATIO (Y POSITION), (PORTRAIT) OVERLAY ASPECT ADJUSTMENT SETTINGS.</b>
+  
 <b>Optional Settings:</b>
   
 If you use Gambatte core i reccomend this core options:
