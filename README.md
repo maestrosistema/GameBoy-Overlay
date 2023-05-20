@@ -2,6 +2,8 @@
 
 # OVERVIEW
 
+[My Image](ow.png)
+
 This is an updated version of my GameBoy overlay for RetroArch I made back in 2017 (<a href="https://forums.libretro.com/t/gameboy-touch-overlay/12469">RetroArch Forums</a>).
 
 I've updated it for modern 21:9 (2400x1080) screen Android devices.
@@ -49,4 +51,8 @@ If you use Gambatte core i reccomend this core options:
 - Emulated Hardware (Restart Required) <b>Auto</b>
 - Use Official Bootloader (Restart Required) <b>ON</b> (If you have BIOS files)
   
-I also reccomed using a <b>Video Shader</b> like <b>dot.glslp</b> found in <i>shaders_glsl/handheld/</i> (Or <i>shadrs_slang/handheld/dot.slangp</i> if you use Vulkan video driver)
+I also reccomed using a <b>Video Shader</b> like <b>dot.glslp</b> found in <i>"shaders_glsl/handheld/"</i> (Or <i>"shadrs_slang/handheld/dot.slangp"</i> if you use Vulkan video driver)
+
+# USAGE
+
+[My Image](usage.png)
