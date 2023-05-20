@@ -1,14 +1,21 @@
 # GameBoy Overlay
 
-# OVERVIEW
+# Overview
 
 ![My Image](ow.jpg)
 
-This is an updated version of my GameBoy overlay for RetroArch I made back in 2017 (<a href="https://forums.libretro.com/t/gameboy-touch-overlay/12469">RetroArch Forums</a>).
+This is an updated version of my GameBoy overlay for RetroArch I made back in 2017 (<a href="https://forums.libretro.com/t/gameboy-touch-overlay/12469">Libretro Forums</a>).
 
 I've updated it for modern 21:9 (2400x1080) screen Android devices.
 
-# INSTALLATION
+To Do List:
+- Remake GameBoy Color version
+- Remake bigger version (Like in my Libretro forum post)
+- Make GameBoy Advance (For landscape) and GBA SP (For portrait) overlays
+
+I'm open to suggestions!
+
+# Installation
 
 <b>1.</b> Download latest release.
 
@@ -20,7 +27,7 @@ I've updated it for modern 21:9 (2400x1080) screen Android devices.
 <b>Video:</b>
 - Enable fullscreen over notch in Android devices <b>"ON"</b>
 
-<b>Video - Scaling:</b>
+<b>Video → Scaling:</b>
 - Integer Scale <b>"OFF"</b>
 - Aspect Ratio <b>"Custom"</b>
 - Custom Aspect Ratio (X Position) <b>"221"</b>
@@ -29,14 +36,14 @@ I've updated it for modern 21:9 (2400x1080) screen Android devices.
 - Custom Aspect Ratio (Height) <b>"576 (4x)"</b>
 - Crop Overscan (Restart Required) <b>"ON"</b>
 
-<b>On-Screen Display - On-Scren Overlay:</b>
+<b>On-Screen Display → On-Scren Overlay:</b>
 - Display Overlay <b>"ON"</b>
 - Auto-Scale Overlay <b>"OFF"</b>
 - Overlay Preset <b>"gb"</b> (Select the <b>gb.cfg</b> file found in <b>gb-portrait</b> folder)
 - Overlay Opacity <b>"1.00"</b>
 - (Portrait) Overlay Aspect Adjustment <b>"-0.250"</b>
   
-<b>4.</b> Go to <b>Quick Menu - Ovverides</b> and <b>Save Core Overrides</b> then restart RetroArch.
+<b>4.</b> Go to <b>Quick Menu → Ovverides</b> and <b>Save Core Overrides</b> then restart RetroArch.
  
 <b>5.</b> Play!
 
@@ -56,16 +63,19 @@ If you use Gambatte core i reccomend this core options:
   
 I also reccomed using a <b>Video Shader</b> like <b>dot.glslp</b> found in <i>"shaders_glsl/handheld/"</i> (Or <i>"shadrs_slang/handheld/dot.slangp"</i> if you use Vulkan video driver)
 
-# USAGE
+# Usage
 
 ![My Image](usage.jpg)
 
-# DONATION
+# Donation
 If you like my work, please consider a small donation. Thank You!
 
 <a href="https://paypal.me/maestrosistema?country.x=IT&locale.x=it_IT"><b>DONATE</b></a>
 
-# DISCLAIMER
+# Special Thanks
+RetroArch Team
+
+# Disclaimer
 <b>Nintendo GameBoy</b> is a trademark of <b>Nintendo Co., Ltd</b>
 
 <b>Android</b> is a trademark of <b>Google LLC</b>
