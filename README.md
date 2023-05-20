@@ -8,9 +8,9 @@ I've updated it for modern 21:9 (2400x1080) screen Android devices.
 
 # INSTALLATION
 
-1. Download latest release.
+<b>1.</b> Download latest release.
 
-2. Copy the <b>gb-portrait</b> folder inside: 
+<b>2.</b> Extract and copy the <b>gb-portrait</b> folder inside: 
 <i>"RetroArch/overlays/misc"</i> (Or any folder you set for overlays in RetroArch settings) and overwrite if asked.
 
 3. Boot any GB or GBC game (the Gambatte core is recommended), go into the menu and change these settings:
@@ -33,6 +33,8 @@ I've updated it for modern 21:9 (2400x1080) screen Android devices.
 - Overlay Preset - <b>gb</b> (Select the <b>gb.cfg</b> file found in <b>gb-portrait</b> folder)
 - Overlay Opacity - <b>1.00</b>
 - (Portrait) Overlay Aspect Adjustment - <b>-0.250</b>
+  
+Finally go to <b>Quick Menu - Ovverides</b> and <b>Save Core Overrides</b>
 
 <b>Optional Settings</b>
   
