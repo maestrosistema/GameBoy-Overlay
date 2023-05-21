@@ -6,7 +6,7 @@
 
 This is an updated version of my GameBoy overlay for RetroArch I made back in 2017 (<a href="https://forums.libretro.com/t/gameboy-touch-overlay/12469">Libretro Forums</a>).
 
-I've updated it for modern 21:9 (2400x1080) screen Android devices.
+I've updated it for modern 21:9 (2400x1080) screen Android devices and added animation to all the buttons.
 
 To Do List:
 - Remake GameBoy Color version
