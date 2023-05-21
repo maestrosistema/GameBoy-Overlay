@@ -22,7 +22,7 @@ I'm open to suggestions!
 <b>2.</b> Extract and copy the <b>gb-portrait</b> folder inside: 
 <i>"RetroArch/overlays/misc"</i> (Or any folder you set for overlays in RetroArch settings) and overwrite if asked.
 
-<b>3.</b> Boot any GB or GBC game (the Gambatte core is recommended), go into the menu and change these settings:
+<b>3.</b> Open RetroArch and boot any GB or GBC game (the Gambatte core is recommended), go into the menu and change these settings:
 
 <b>Video:</b>
 - Enable fullscreen over notch in Android devices <b>"ON"</b>
