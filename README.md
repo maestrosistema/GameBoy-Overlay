@@ -10,7 +10,6 @@ I've updated it for modern 21:9 (2400x1080) screen Android devices and added ani
 
 To Do List:
 - Remake GameBoy Color version
-- Remake bigger version (Like in my Libretro forum post)
 - Make GameBoy Advance (For landscape) and GBA SP (For portrait) overlays
 
 I'm open to suggestions!
@@ -48,7 +47,7 @@ I'm open to suggestions!
 <b>5.</b> Play!
 
 <b>NOTE:</b>
-<b>THESE SETTINGS ARE OPTIMAL FOR 21:9, 2400x1080 RESOLUTION PHONES, FOR DIFFERENT ASPECT RATIO AND RESOLUTIONS YOU MAY HAVE TO TWEAK: CUSTOM ASPECT RATIO (X POSITION), CUSTOM ASPECT RATIO (Y POSITION), (PORTRAIT) OVERLAY ASPECT ADJUSTMENT SETTINGS.</b>
+<b>THESE SETTINGS ARE OPTIMAL FOR 21:9, 2400x1080 RESOLUTION PHONES, FOR DIFFERENT ASPECT RATIO AND RESOLUTIONS YOU MAY HAVE TO TWEAK: CUSTOM ASPECT RATIO (X POSITION), CUSTOM ASPECT RATIO (Y POSITION), (PORTRAIT) OVERLAY ASPECT ADJUSTMENT SETTINGS AND MAYBE OTHERS.</b>
   
 <b>Optional Settings:</b>
   
