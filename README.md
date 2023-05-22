@@ -26,7 +26,7 @@ I'm open to suggestions!
 <b>Video:</b>
 - Enable fullscreen over notch in Android devices <b>"ON"</b>
 
-<b>Video → Scaling:</b>
+<b>Video -> Scaling:</b>
 - Integer Scale <b>"OFF"</b>
 - Aspect Ratio <b>"Custom"</b>
 - Custom Aspect Ratio (X Position) <b>"221"</b>
@@ -35,14 +35,14 @@ I'm open to suggestions!
 - Custom Aspect Ratio (Height) <b>"576 (4x)"</b>
 - Crop Overscan (Restart Required) <b>"ON"</b>
 
-<b>On-Screen Display → On-Scren Overlay:</b>
+<b>On-Screen Display -> On-Scren Overlay:</b>
 - Display Overlay <b>"ON"</b>
 - Auto-Scale Overlay <b>"OFF"</b>
 - Overlay Preset <b>"gb"</b> (Select the <b>gb.cfg</b> file found in <b>gb-portrait</b> folder)
 - Overlay Opacity <b>"1.00"</b>
 - (Portrait) Overlay Aspect Adjustment <b>"-0.250"</b>
   
-<b>4.</b> Go to <b>Quick Menu → Ovverides</b> and <b>Save Core Overrides</b> then restart RetroArch.
+<b>4.</b> Go to <b>Quick Menu -> Ovverides</b> and <b>Save Core Overrides</b> then restart RetroArch.
  
 <b>5.</b> Play!
 
