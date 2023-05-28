@@ -68,6 +68,8 @@ All gameplay buttons (D-Pad, A, B, Start and Select) are self explanatory.
 
 There are Menu, Rewind (If enable in RA settings), Slow Motion and Fast Forward buttons.
 
+Near the Fast Forward button there is a switch to change between Hold and Toggle mode.
+
 In the top right of the screen there are save state buttons. In order: Save State, Decrease Slot, Increase Slot and Load State.
 
 There is a hidden button between A and B to easily press both of them at the same time.
