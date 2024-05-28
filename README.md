@@ -73,7 +73,7 @@ Another hidden button for taking screenshots is in the center of the gameplay sc
 # Donation
 If you like my work, please consider a small donation.
 
-You can donate with <a href="https://paypal.me/maestrosistema?country.x=IT&locale.x=it_IT"><b>PayPal</b></a> or <a href="https://ko-fi.com/maestrosistema"><b>Ko-Fi</b></a>.
+You can donate with <a href="https://paypal.me/maestrosistema?country.x=IT&locale.x=it_IT"><b>PayPal</b></a>.
 
 Thank You!
 
